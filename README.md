@@ -1,5 +1,5 @@
 # react_native_manager
-project in react native which manages list of employees.
+Project developed in react native which manages list of employees.
 tools used :(1) firebase used for user authentication 
             (2) firebase for data storage.
             (3) IDE used VS code.
